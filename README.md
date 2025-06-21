@@ -1,1 +1,2 @@
-# Jovac
+# JOVAC-x-CB-2025
+I'm actively participating in the Jovac Full Stack Web Development program provided by my college, where I’m learning to build modern, responsive web applications from the ground up. The course emphasizes practical, real-world skills using a powerful tech stack that includes HTML, CSS, JavaScript, React, Node.js, and MongoDB. This repository serves as a portfolio of my progress, featuring a collection of projects and assignments that reflect my evolving capabilities in full stack development.
